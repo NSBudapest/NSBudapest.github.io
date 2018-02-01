@@ -14,9 +14,9 @@ theme_settings:
   # Header and footer text
   header_text: > #two or three lines to describe your site
      <p>Group of people interested in iOS and macOS development. We ❤️ quality code, testing, automation, craft beer and mad science in general.</p>
-  header_text_feature_image: assets/img/pexels/parliment.jpg
+  header_text_feature_image: assets/img/header/parliment.jpg
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a> - 2018
 
   # Icons
   rss:
