@@ -1,15 +1,15 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+baseurl: "/NSBudapest"
+url: "https://NSBudapest.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap
+  title: NSBudapest
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "Budapest based iOS meetup." # used by search engines
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
@@ -27,7 +27,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "sylhare"
+  github: "NSBudapest"
   google_plus:
   instagram:
   keybase:
@@ -71,7 +71,7 @@ theme_settings:
   post_navigation: true
 
 # PAGINATION
-paginate: 5
+paginate: 12
 paginate_path: "blog/page:num"
 
 # PORTFOLIO
