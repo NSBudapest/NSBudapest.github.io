@@ -19,7 +19,7 @@ theme_settings:
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
   # Icons
-  rss: true
+  rss:
   email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
@@ -38,10 +38,10 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: # "twitter username"
+  twitter: "nsbudapest"
   vimeo:
   wordpress:
-  youtube:
+  youtube: "nsbudapest"
 
   # Scripts / Features 
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
