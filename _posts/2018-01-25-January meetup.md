@@ -6,7 +6,7 @@ thumbnail: "assets/img/posts/january/people.jpg"
 tags: [ios, meetup, appcode, animations, skyscanner, supercharge]
 ---
 
-#Info
+# Info
 
 Location: Skyscanner office Budapest
 
@@ -16,12 +16,12 @@ Sponsor of the month: [Skyscanner](https://www.skyscanner.net/jobs/offices/budap
 
 Meetup.com event available [here](https://www.meetup.com/NSBudapest/events/245939002/).
 
-#Presentations
+# Presentations
 
-##Gabor Nagy Farkas (Leadership team) - Intro
+## Gabor Nagy Farkas (Leadership team) - Intro
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vO9_mUo0Ai0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-##Levente Dominguez ([Skyscanner](https://www.skyscanner.net)) - AppCode at Skyscanner
+## Levente Dominguez ([Skyscanner](https://www.skyscanner.net)) - AppCode at Skyscanner
 
-##David Horvath ([Supercharge](https://www.supercharge.io)) - Animations - it's not black magic
+## David Horvath ([Supercharge](https://www.supercharge.io)) - Animations - it's not black magic
