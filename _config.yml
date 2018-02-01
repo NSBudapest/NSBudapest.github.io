@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/NSBudapest"
+baseurl:
 url: "https://NSBudapest.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
