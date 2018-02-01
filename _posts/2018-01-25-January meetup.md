@@ -20,7 +20,7 @@ Meetup.com event available [here](https://www.meetup.com/NSBudapest/events/24593
 
 ## Gabor Nagy Farkas (Leadership team) - Intro
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vO9_mUo0Ai0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="1920" height="1080" src="https://www.youtube-nocookie.com/embed/vO9_mUo0Ai0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Levente Dominguez ([Skyscanner](https://www.skyscanner.net)) - AppCode at Skyscanner
 
