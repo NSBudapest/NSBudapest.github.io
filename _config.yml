@@ -6,7 +6,7 @@ url: "https://NSBudapest.github.io"
 theme_settings:
   # Meta
   title: NSBudapest
-  avatar: assets/img/triangle.svg
+  avatar: assets/img/logo.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
   description: "Budapest based iOS meetup." # used by search engines
