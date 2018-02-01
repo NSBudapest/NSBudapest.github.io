@@ -46,8 +46,8 @@ theme_settings:
   # Scripts / Features 
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
-  katex: true # Enable if using math markup
-  portfolio: true
+  katex: false # Enable if using math markup
+  portfolio: false
   search: true
   tags: true
   
@@ -59,7 +59,7 @@ theme_settings:
   str_next_post: "Next post"
   str_previous_post: "Previous post"
   str_next_page: "Next"
-  str_previous_page: "Prev"
+  str_previous_page: "Previous"
   str_continue_reading: "Continue reading"
   str_javascript_required_disqus: "Please enable JavaScript to view comments."
 
