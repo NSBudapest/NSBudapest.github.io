@@ -41,7 +41,7 @@ theme_settings:
   twitter: "nsbudapest"
   vimeo:
   wordpress:
-  youtube: "nsbudapest"
+  youtube:
 
   # Scripts / Features 
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
