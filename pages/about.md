@@ -12,7 +12,7 @@ Follow [@nsbudapest](https://twitter.com/nsbudapest) on Twitter for updates rega
 
 ### What is a meetup?
 
-A place where you can find out how others do the technology. A place for getting to know each other. We are actually a community! :blush:
+A place where you can find out how others do the technology. A place for getting to know each other. We are actually a community! 😊
 
 ### How does an event look like?
 
@@ -24,7 +24,7 @@ Because this page is brand new, you can find our past events [here](https://gith
 
 ### Interested in talking at the meetup?
 
-Just reach out to Gabor Nagy Farkas on any platform(Slack, Meetup.com, Twitter, GitHub etc.)
+Just reach out to Gabor Nagy Farkas on any platform(Slack, [Meetup.com](https://www.meetup.com/members/197683867/), [Twitter](https://twitter.com/nfgabor), [GitHub](https://github.com/gabornagyfarkas) etc.)
 
 ### Code of Conduct
 
