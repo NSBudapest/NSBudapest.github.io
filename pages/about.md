@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 feature-img: "assets/img/about/budapest.jpg"
 tags: [About]
+categories: [About]
 ---
 
 Welcome to our meetup's page. If you'd like to attend to the next event, RSVP on our [meetup.com page](http://www.meetup.com/NSBudapest/).
