@@ -5,7 +5,7 @@ url: "https://NSBudapest.github.io"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: "NSBudapest"
+  title: NSBudapest
   avatar: assets/img/logo.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
