@@ -26,8 +26,8 @@ Location: [Skyscanner office Budapest](https://goo.gl/maps/5k96gWUPv6z)
 ## Levente Dominguez ([Skyscanner](https://www.skyscanner.net)) - AppCode at Skyscanner
 
 Levente will talk about how Skyscanner mobile app engineers use AppCode for iOS app development.
+<di class="aspect-ratio"><iframe width="875" height="493" src="https://www.youtube-nocookie.com/embed/vO9_mUo0Ai0?start=194" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
-<iframe width="875" height="493" src="https://www.youtube-nocookie.com/embed/vO9_mUo0Ai0?start=194" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## David Horvath ([Supercharge](https://www.supercharge.io)) - Animations - it's not black magic
 
