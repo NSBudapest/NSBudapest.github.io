@@ -21,7 +21,7 @@ Location: [Skyscanner office Budapest](https://goo.gl/maps/5k96gWUPv6z)
 
 ## Gabor Nagy Farkas (Leadership team) - Intro
 
-<iframe width="875" height="493" src="https://www.youtube-nocookie.com/embed/vO9_mUo0Ai0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="aspect-ratio"><iframe width="875" height="493" src="https://www.youtube-nocookie.com/embed/vO9_mUo0Ai0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 ## Levente Dominguez ([Skyscanner](https://www.skyscanner.net)) - AppCode at Skyscanner
 
@@ -33,7 +33,7 @@ Levente will talk about how Skyscanner mobile app engineers use AppCode for iOS 
 
 David will talk about the the cases why and where should you use Core Animation instead the UIKit one.
 
-<iframe width="875" height="493" src="https://www.youtube-nocookie.com/embed/vO9_mUo0Ai0?start=1014" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="aspect-ratio"><iframe width="875" height="493" src="https://www.youtube-nocookie.com/embed/vO9_mUo0Ai0?start=1014" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 
 ### Big shoutout to Skyscanner for sponsoring this event.
