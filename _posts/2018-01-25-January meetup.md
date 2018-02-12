@@ -22,9 +22,9 @@ Location: [Skyscanner office Budapest](https://goo.gl/maps/5k96gWUPv6z)
 ## Gabor Nagy Farkas (Leadership team) - Intro
 
 <div class="aspect-ratio"><iframe width="875" height="493" src="https://www.youtube-nocookie.com/embed/vO9_mUo0Ai0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
-
+<br><br>
 <div class="aspect-ratio"><script async class="speakerdeck-embed" data-id="8371d7f20e1648559fc67c409a6e60d1" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script></div>
-
+<br><br>
 ## Levente Dominguez ([Skyscanner](https://www.skyscanner.net)) - AppCode at Skyscanner
 
 Levente will talk about how Skyscanner mobile app engineers use AppCode for iOS app development.
