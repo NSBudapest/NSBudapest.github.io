@@ -36,7 +36,11 @@ Levente will talk about how Skyscanner mobile app engineers use AppCode for iOS 
 
 David will talk about the the cases why and where should you use Core Animation instead the UIKit one.
 
+<div class="aspect-ratio"><iframe width="875" height="493" src="//speakerdeck.com/player/e88d0f3ef05444ac899a5985838dff6c" frameborder="0" allowfullscreen scrolling="no"></iframe></div>
+<br><br>
+
 <div class="aspect-ratio"><iframe width="875" height="493" src="https://www.youtube-nocookie.com/embed/vO9_mUo0Ai0?start=1014" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<br><br>
 
 
 ### Big shoutout to Skyscanner for sponsoring this event.
