@@ -7,6 +7,8 @@ tags: [ios, meetup, appcode, animations, skyscanner, supercharge]
 categories: [Meetup]
 ---
 
+Every new year is an opportunity to make a fresh start. This month it was all about AppCode and animations. We had a wonderful night, hoping to see you soon at the next meetup event.
+
 # Info
 
 Meetup.com event available [here](https://www.meetup.com/NSBudapest/events/245939002/).
@@ -23,13 +25,19 @@ Location: [Skyscanner office Budapest](https://goo.gl/maps/5k96gWUPv6z)
 
 <div class="aspect-ratio"><iframe width="875" height="493" src="//speakerdeck.com/player/8371d7f20e1648559fc67c409a6e60d1" frameborder="0" allowfullscreen scrolling="no"></iframe></div>
 <br><br>
+
 <div class="aspect-ratio"><iframe width="875" height="493" src="https://www.youtube-nocookie.com/embed/vO9_mUo0Ai0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 <br><br>
 
 ## Levente Dominguez ([Skyscanner](https://www.skyscanner.net)) - AppCode at Skyscanner
 
 Levente will talk about how Skyscanner mobile app engineers use AppCode for iOS app development.
+
+<div class="aspect-ratio"><iframe width="875" height="493" src="//speakerdeck.com/player/ccc81b935e344ce0ac729863a3d6a1cf" frameborder="0" allowfullscreen scrolling="no"></iframe></div>
+<br><br>
+
 <div class="aspect-ratio"><iframe width="875" height="493" src="https://www.youtube-nocookie.com/embed/vO9_mUo0Ai0?start=194" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<br><br>
 
 
 ## David Horvath ([Supercharge](https://www.supercharge.io)) - Animations - it's not black magic
