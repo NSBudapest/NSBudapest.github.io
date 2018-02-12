@@ -7,7 +7,7 @@ tags: [ios, meetup, appcode, animations, skyscanner, supercharge]
 categories: [Meetup]
 ---
 
-Every new year is an opportunity to make a fresh start. This month it was all about AppCode and animations. We had a wonderful night, hoping to see you soon at the next meetup event.
+Every new year is an opportunity to make a fresh start. This month Levente and David had a presentation about AppCode and animations on iOS. We had a wonderful night, hoping to see you soon at the next meetup event. Until then, if you would like to connect with us, register for our Slack channel [here](https://docs.google.com/forms/d/e/1FAIpQLSer4nuTbTsRel6bUrgzKBYQAiGgN9yPZUWBJ6XH7CF6rFLXzA/viewform).
 
 # Info
 
