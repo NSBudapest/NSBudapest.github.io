@@ -21,9 +21,9 @@ Location: [Skyscanner office Budapest](https://goo.gl/maps/5k96gWUPv6z)
 
 ## Gabor Nagy Farkas (Leadership team) - Intro
 
-<div class="aspect-ratio"><iframe width="875" height="493" src="https://www.youtube-nocookie.com/embed/vO9_mUo0Ai0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
-<br><br>
 <div class="aspect-ratio"><iframe width="875" height="493" src="//speakerdeck.com/player/8371d7f20e1648559fc67c409a6e60d1" frameborder="0" allowfullscreen scrolling="no"></iframe></div>
+<br><br>
+<div class="aspect-ratio"><iframe width="875" height="493" src="https://www.youtube-nocookie.com/embed/vO9_mUo0Ai0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 <br><br>
 
 ## Levente Dominguez ([Skyscanner](https://www.skyscanner.net)) - AppCode at Skyscanner
