@@ -25,21 +25,18 @@ Location: [Prezi House of Ideas](https://goo.gl/maps/UXR8wci3pCK2)
 
 In a normal scenario when you want to release a new app version to the public you just send the app to store review with automatic application release and you wait a few days. It’s rare that something goes wrong but it can happen. It happened to us and I want to share my experience about this topic: what can go wrong and what can you do to avoid this situation.
 
-
 ## Tamás Lustyik ([Prezi](https://prezi.com)) - Building The Wings
 
 Moving from ObjC to Swift is exciting but it also means new kinds of pains we have to live with. One of them is the lack of runtime dynamism that many of our previous practices and tooling have built upon, especially in testing. In this talk, I’ll give a quick overview of what kind of challenges I have faced along the way and how I managed to overcome them.
 
-<div class="aspect-ratio"><iframe width="875" height="493" src="https://youtu.be/yQZDaUhqnzY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="aspect-ratio"><iframe width="875" height="493" src="https://www.youtube-nocookie.com/embed/yQZDaUhqnzY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 <br><br>
-
-
 
 ## Richárd Szabó ([InterTicket](https://www.jegy.hu)) - Continuously integrating at ease! / a GitLab CI story
 
 Continuous Integration (CI) is the process of automating the build and testing of code every time a team member commits changes to version control. In this talk I'll talk about what should we expect from a modern CI solution and what is our approach at InterTicket. What should happen for every line of code that is checked into a repository? What are these strange words: pipelines, stages and jobs everyone talks about?
 
-<div class="aspect-ratio"><iframe width="875" height="493" src="https://youtu.be/jpVYy9DK03E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="aspect-ratio"><iframe width="875" height="493" src="https://www.youtube-nocookie.com/embed/jpVYy9DK03E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 <br><br>
 
 ### Big shoutout to Prezi for sponsoring this event.
