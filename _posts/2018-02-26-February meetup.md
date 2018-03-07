@@ -29,11 +29,11 @@ In a normal scenario when you want to release a new app version to the public yo
 
 Moving from ObjC to Swift is exciting but it also means new kinds of pains we have to live with. One of them is the lack of runtime dynamism that many of our previous practices and tooling have built upon, especially in testing. In this talk, I’ll give a quick overview of what kind of challenges I have faced along the way and how I managed to overcome them.
 
-<div class="aspect-ratio"><iframe width="875" height="493" src="https://www.youtube-nocookie.com/embed/yQZDaUhqnzY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="aspect-ratio"><iframe width="875" height="493" src="//speakerdeck.com/player/fa93a8648ad04a65bf641c4f7cf8ad0c" frameborder="0" allowfullscreen scrolling="no"></iframe></div>
 <br><br>
 
-<blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/lvsti/building-the-wings">Building The Wings</a></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<div class="aspect-ratio"><iframe width="875" height="493" src="https://www.youtube-nocookie.com/embed/yQZDaUhqnzY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<br><br>
 
 ## Richárd Szabó ([InterTicket](https://www.jegy.hu)) - Continuously integrating at ease! / a GitLab CI story
 
