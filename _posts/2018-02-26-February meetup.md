@@ -32,6 +32,9 @@ Moving from ObjC to Swift is exciting but it also means new kinds of pains we ha
 <div class="aspect-ratio"><iframe width="875" height="493" src="https://www.youtube-nocookie.com/embed/yQZDaUhqnzY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 <br><br>
 
+<blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/lvsti/building-the-wings">Building The Wings</a></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
 ## Richárd Szabó ([InterTicket](https://www.jegy.hu)) - Continuously integrating at ease! / a GitLab CI story
 
 Continuous Integration (CI) is the process of automating the build and testing of code every time a team member commits changes to version control. In this talk I'll talk about what should we expect from a modern CI solution and what is our approach at InterTicket. What should happen for every line of code that is checked into a repository? What are these strange words: pipelines, stages and jobs everyone talks about?
