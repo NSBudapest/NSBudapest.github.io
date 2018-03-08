@@ -25,6 +25,12 @@ Location: [Prezi House of Ideas](https://goo.gl/maps/UXR8wci3pCK2)
 
 In a normal scenario when you want to release a new app version to the public you just send the app to store review with automatic application release and you wait a few days. It’s rare that something goes wrong but it can happen. It happened to us and I want to share my experience about this topic: what can go wrong and what can you do to avoid this situation.
 
+<div class="aspect-ratio"><iframe width="875" height="493" src="//speakerdeck.com/player/c1ccd18e43f64324bc0fbf81bf924be0" frameborder="0" allowfullscreen scrolling="no"></iframe></div>
+<br><br>
+
+<div class="aspect-ratio"><iframe width="875" height="493" src="https://www.youtube-nocookie.com/embed/-G0B5gcGO0I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<br><br>
+
 ## Tamás Lustyik ([Prezi](https://prezi.com)) - Building The Wings
 
 Moving from ObjC to Swift is exciting but it also means new kinds of pains we have to live with. One of them is the lack of runtime dynamism that many of our previous practices and tooling have built upon, especially in testing. In this talk, I’ll give a quick overview of what kind of challenges I have faced along the way and how I managed to overcome them.
