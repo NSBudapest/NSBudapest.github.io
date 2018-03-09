@@ -45,6 +45,9 @@ Moving from ObjC to Swift is exciting but it also means new kinds of pains we ha
 
 Continuous Integration (CI) is the process of automating the build and testing of code every time a team member commits changes to version control. In this talk I'll talk about what should we expect from a modern CI solution and what is our approach at InterTicket. What should happen for every line of code that is checked into a repository? What are these strange words: pipelines, stages and jobs everyone talks about?
 
+<div class="aspect-ratio"><iframe width="875" height="493" src="//speakerdeck.com/player/c46f55d009f44aaf90fb1707d8d2d12f" frameborder="0" allowfullscreen scrolling="no"></iframe></div>
+<br><br>
+
 <div class="aspect-ratio"><iframe width="875" height="493" src="https://www.youtube-nocookie.com/embed/jpVYy9DK03E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 <br><br>
 
