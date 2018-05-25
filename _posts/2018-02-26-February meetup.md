@@ -7,7 +7,7 @@ tags: [ios, meetup, iTunesConnect, swift, prezi, supercharge, interticket, gitla
 categories: [Meetup]
 ---
 
-Second time this year we gathered on a very cold February night. Fortunately this didn't bother most of the people. It was all about building and shipping products, from extending Swift to be more productive, to building apps with ease on GitLab and shipping them flawlessly with iTunes Connect. I hope everyone enjoyed the event and we will meet next time as well. If you want to stay in touch with us, come and join our Slack shannel [here](https://docs.google.com/forms/d/e/1FAIpQLSer4nuTbTsRel6bUrgzKBYQAiGgN9yPZUWBJ6XH7CF6rFLXzA/viewform).
+Second time this year we gathered on a very cold February night. Fortunately this didn't bother most of the people. It was all about building and shipping products, from extending Swift to be more productive, to building apps with ease on GitLab and shipping them flawlessly with iTunes Connect. I hope everyone enjoyed the event and we will meet next time as well. If you want to stay in touch with us, come and join our Slack channel [here](https://docs.google.com/forms/d/e/1FAIpQLSer4nuTbTsRel6bUrgzKBYQAiGgN9yPZUWBJ6XH7CF6rFLXzA/viewform).
 
 # Info
 
