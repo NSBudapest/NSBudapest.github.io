@@ -1,8 +1,8 @@
 ---
 layout: post
 title: April meetup
-feature-img: "assets/img/posts/april/people.jpeg"
-thumbnail: "assets/img/posts/april/people.jpeg"
+feature-img: "assets/img/posts/april/people.jpg"
+thumbnail: "assets/img/posts/april/people.jpg"
 tags: [ios, meetup, UITest, UnitTest, macos, codeshare, swift, skyscanner, supercharge, tresorit]
 categories: [Meetup]
 ---
