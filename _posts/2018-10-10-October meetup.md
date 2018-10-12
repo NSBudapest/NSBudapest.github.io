@@ -34,6 +34,9 @@ I’m going to show you what it looks like to make my own apps full-time and how
 
 Finding the right Key Performance Indicators are essential if you would like to build a successful product. In my talk, I would like to show you how to find the best KPIs for your product and what kind of tools you can use to track them.
 
+<div class="aspect-ratio"><iframe width="875" height="493" src="https://speakerdeck.com/player/66c79b3ef8d54c21b5cda4f724143c7e" frameborder="0" allowfullscreen scrolling="no"></iframe></div>
+<br><br>
+
 <div class="aspect-ratio"><iframe width="875" height="493" src="https://www.youtube-nocookie.com/embed/FvJ-FtnxZHU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 <br><br>
 
