@@ -1,6 +1,6 @@
 ---
 layout: post
-title: August meetup
+title: May meetup - Pre CRAFT Official
 feature-img: "assets/img/posts/october/people.jpg"
 thumbnail: "assets/img/posts/october/people.jpg"
 tags: [ios, meetup, kpi, indie, marketing, supercharge]
