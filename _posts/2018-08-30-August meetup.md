@@ -3,7 +3,7 @@ layout: post
 title: August meetup
 feature-img: "assets/img/posts/october/people.jpg"
 thumbnail: "assets/img/posts/october/people.jpg"
-tags: [ios, meetup, kpi, indie, marketing, supercharge]
+tags: [ios, meetup, iap, in app purchase, fastlane, match, accedo, supercharge]
 categories: [Meetup]
 ---
 
@@ -22,6 +22,9 @@ Location: [Supercharge HQ](https://goo.gl/maps/R6rv78eXSX22)
 ## Alexandre Thomas ([Accedo](https://www.accedo.tv)) - Apple In app purchase explained
 
 When I started to implement in app purchase recurring subscription I was a bit afraid as it includes money and you don't want things to go wrong for the final users. During the talk I will show the whole process on how to setup the system, how to implement it in your app with StoreKit API and share some lessons learnt so you could be more confortable next time you include it in your project.
+
+<div class="aspect-ratio"><iframe width="875" height="493" src="https://www.youtube-nocookie.com/embed/G97SvA3r1Rs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<br><br>
 
 
 ## Richard Radics ([Supercharge](https://supercharge.io)) - Simplify your life with fastlane match
